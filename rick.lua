@@ -49,3 +49,7 @@ function RickWall () {
 function win:onHide()
 	win:show()
 end
+
+
+
+ui.error("You Have Been Infected By Rick.EXE !!1!", "Fatal error");
